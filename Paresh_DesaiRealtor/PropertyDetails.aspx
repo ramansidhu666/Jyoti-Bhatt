@@ -369,7 +369,7 @@
                         <h2 style="margin-bottom: 5px; font-family:arial; font-size: 18px;">Prakash Bhatt & Jyoti Bhatt</h2>
                         <p style="margin-bottom: 5px; font-family:arial;">Sales Representative</p>
                         <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">E-Mail:<span style="font-weight: normal; margin: 0 0px 0 6px;">info@bhatthomes.com</span></p>
-                        <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">Phone:<span style="font-weight: normal; margin: 0 0px 0 6px;">647-772-7076, 416-786-3131</span></p>
+                        <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">Phone:<span style="font-weight: normal; margin: 0 0px 0 6px;">416-568-7076, 416-786-3131</span></p>
                     </div>
                     <div style="float: left; width: 31%; margin-top: 20px;">
                         <img src="images/logo.jpg" alt="" title="" />

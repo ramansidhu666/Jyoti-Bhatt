@@ -595,7 +595,7 @@
                                <%-- <asp:Label ID="lblname" runat="server"></asp:Label>--%></h2>
                             <p>Sales Representative</p>
                             <asp:Label CssClass="email_profile_r" ID="lblemail" runat="server"></asp:Label>
-                            <span class="email_profile_r">647-772-7076, 416-786-3131</span>
+                            <span class="email_profile_r">416-568-7076, 416-786-3131</span>
                             <%--<asp:Label CssClass="email_profile_r" ID="lblmobile" runat="server"></asp:Label>--%>
                         </div>
                     </div>

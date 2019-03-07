@@ -114,7 +114,7 @@ namespace Property
                 html.AppendLine("<div id='divEmail' style='width:100%; float:left;'>");
                 html.AppendLine("<h2 style='font-weight:bold; font-size:16px;'>Prakash Bhatt & Jyoti Bhatt for Property ID  " + dt.Rows[0]["MLS"].ToString() + ";</h2>");
                 html.AppendLine("<h2 style='font-weight: bold; font-size: 16px;'>Message Received From:</h2>");
-                html.AppendLine("<p style='float: left; margin: 0 40px 0 0;'>Phone Number:</p><span style='float:left;'>647-772-7076, 416-786-3131</span><br/>");
+                html.AppendLine("<p style='float: left; margin: 0 40px 0 0;'>Phone Number:</p><span style='float:left;'>416-568-7076, 416-786-3131</span><br/>");
                 html.AppendLine("<h2 style='font-weight: bold; font-size: 16px;'>Message:</h2>");
                 html.AppendLine("<p>Please take a look at Property ID# " + dt.Rows[0]["MLS"].ToString() + " located at " + dt.Rows[0]["Address"].ToString() + "</p>");
                 html.AppendLine("<h2 style='font-weight:bold; font-size:16px;'>Referring Page:</h2>");
@@ -146,7 +146,7 @@ namespace Property
                 html.AppendLine("<p style='margin:0px;'>Listed By</p><br/><p>Prakash Bhatt & Jyoti Bhatt<br/>Sales Representative</p>");
                 //html.AppendLine(" <h2 style='font-size:16px;'>Leading Edge Realty Inc.</h2>");
                 //html.AppendLine("<p style='margin:0px;'>2250 BOVAIRD DRIVE EAST UNIT # 502 BRAMPTON ON L6R 0W3 </p>");
-                html.AppendLine("<p style='float:left; margin:0 40px 0 0; font-weight:bold;'>Cell::</p><span style='float:left;'>647-772-7076, 416-786-3131</span><br/>'");
+                html.AppendLine("<p style='float:left; margin:0 40px 0 0; font-weight:bold;'>Cell::</p><span style='float:left;'>416-568-7076, 416-786-3131</span><br/>'");
                 //html.AppendLine("<p style='float:left; margin:0 40px 0 0; font-weight:bold;'>Office:</p><span style='float:left;'>905-497-2300</span><br/>");
                 //html.AppendLine("<p style='float:left; margin:0 40px 0 0; font-weight:bold;'>Office Fax:</p><span style='float:left;'>905-497-0400</span><br/>'");
                 html.AppendLine("<p style='float:left; margin:0 40px 0 0; font-weight:bold;'>E-mail:</p><span style='float:left;'>info@bhatthomes.com</span><br/>");

@@ -125,7 +125,7 @@
                     <h2>Raza Naqvi</h2>
                     <p>Sales Representative</p>
                       <h5>
-                       Call: 647-772-7076</h5>
+                       Call: 416-568-7076</h5>
                      
                 </div>--%>
                 
@@ -368,7 +368,7 @@ places to raise a family but are also excellent investments. As a team, we are c
                     </div>
                 <div class="fuuter_map">
                  <h5>Email:<a href="mailto:info@bhatthomes.com"><asp:Label ID="lblemail" runat="server"></asp:Label></a></h5>
-                  <h5>Cell: <a href="tel:647-772-7076, 416-786-3131"><asp:Label ID="lblmobile" runat="server"></asp:Label></a></h5>
+                  <h5>Cell: <a href="tel:416-568-7076, 416-786-3131"><asp:Label ID="lblmobile" runat="server"></asp:Label></a></h5>
                 </div>
             </div>--%>
             <div class="col-md-12 col-sm-12">
@@ -386,7 +386,7 @@ places to raise a family but are also excellent investments. As a team, we are c
                 <div class="futer_mail_bg">
                     <div class="futer_mail">
                         <ul>
-                            <li><a href="tel:647-772-7076">
+                            <li><a href="tel:416-568-7076">
                                 <img alt="" src="images/mbl_icnnn.png" /></a></li>
                             <li><a href="tel:416-786-3131">
                                 <img alt="" src="images/sms.png" /></a></li>

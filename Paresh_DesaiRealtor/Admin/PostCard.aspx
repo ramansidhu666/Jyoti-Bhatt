@@ -1046,7 +1046,7 @@ function PostCard_Data() {
                                 <div style="float: left; width: 100%; text-align: center;">
                                     <img src="/PostCardImages/client_img.jpg" alt="" title="" style="width: 120px; height: 120px; border-radius: 66px; border: 2px solid white; margin: 3px 0;" />
                                     <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Prakash Bhatt & Jyoti Bhatt</h2>
-                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 647-772-7076, 416-786-3131</p>
+                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-568-7076, 416-786-3131</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: info@bhatthomes.com</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.bhatthomes.com</p>
                                         <div style="float: left; width: 97%; background-color: #101010; padding: 8px; margin: 6px 0;">
@@ -1093,7 +1093,7 @@ function PostCard_Data() {
                                 <div style="float: left; width: 65%;">
                                     <div style="float: left; background-color: #e8eaec; border-radius: 12px; padding: 6px;">
                                         <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Prakash Bhatt & Jyoti Bhatt</h2>
-                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 647-772-7076, 416-786-3131</p>
+                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-568-7076, 416-786-3131</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: info@bhatthomes.com</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.bhatthomes.com</p>
                                         <div style="float: left; width: 97%; background-color: #101010; padding: 8px; margin: 6px 0;">
@@ -1188,7 +1188,7 @@ function PostCard_Data() {
                                     <div style="float: left; width: 65%;">
                                         <div style="float: left; background-color: #e8eaec; border-radius: 12px; padding: 6px;">
                                             <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Prakash Bhatt & Jyoti Bhatt</h2>
-                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 647-772-7076, 416-786-3131</p>
+                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-568-7076, 416-786-3131</p>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: info@bhatthomes.com</p>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.bhatthomes.com</p>
                                             <div style="float: left; width: 97%; background-color: #101010; padding: 8px; margin: 6px 0;">
@@ -1273,7 +1273,7 @@ function PostCard_Data() {
                                 <div style="float: left; width: 65%;">
                                     <div style="float: left; background-color: #e8eaec; border-radius: 12px; padding: 6px;">
                                         <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Prakash Bhatt & Jyoti Bhatt</h2>
-                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 647-772-7076, 416-786-3131</p>
+                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-568-7076, 416-786-3131</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: info@bhatthomes.com</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.bhatthomes.com</p>
                                         <div style="float: left; width: 97%; background-color: #101010; padding: 8px; margin: 6px 0;">
